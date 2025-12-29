@@ -20,8 +20,8 @@ By night, I’m building tools I wish already existed, cleaning up legacy code, 
 ## 🛠 Tech That’s My Jam
 
 **Languages:** JavaScript, Python  
-**Frontend:** Vue, React, Redux, Next 
-**Backend:** Node.js, Express, PostgreSQL, MongoDB 
+**Frontend:** React, Next, Vue
+**Backend:** Node.js, Express, Fast API, PostgreSQL, MongoDB 
 **Infra & Tooling:** GitLab CI/CD, Docker, Webpack, SSR  
 **Philosophy:** Ship fast. Debug smart. Sleep occasionally.
 
