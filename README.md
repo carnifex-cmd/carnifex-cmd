@@ -22,7 +22,7 @@ By night, I’m building tools I wish already existed, cleaning up legacy code, 
 **Languages:** JavaScript, TypeScript, Python  
 **Frontend:** React, Next, Vue  
 **Backend:** Node.js, Express, Fast API, PostgreSQL, MongoDB      
-**Infra & Tooling:** GitLab/Github CI/CD, Docker, Webpack, AWS, SSR 
+**Infra & Tooling:** GitLab/Github CI/CD, Docker, Webpack, AWS, SSR       
 **Philosophy:** Ship fast. Debug smart. Sleep occasionally.
 
 ---
